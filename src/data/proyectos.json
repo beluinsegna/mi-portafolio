@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sistema de Gestión de Clientes",
+    "descripcion": "Prototipo de Aplicación web para registrar, visualizar y administrar clientes. Permite agregar nuevos registros, consultar información y gestionar datos de forma organizada mediante una interfaz intuitiva.",
+    "tecnologias": ["HTML", "JavaScript", "CSS"],
+    "link": "http://127.0.0.1:5500/VS%20code/GestionClientes.html"
+  },
+  {
+    "id": 2,
+    "nombre": "Aplicación React con Consumo de API",
+    "descripcion": "Aplicación desarrollada en React para consumir una API pública. Permite visualizar un listado de elementos, seleccionar uno y mostrar su información detallada junto con datos ingresados por el usuario mediante un input controlado.",
+    "tecnologias": ["React", "JavaScript", "CSS", "API REST"],
+    "link": "http://localhost:5174/"
+  }
+  
+]
